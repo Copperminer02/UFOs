@@ -29,8 +29,7 @@
 
 ## Results
 
-  To use this project locally, please clone the entire deposit or the html can be accessed in my github_pages.  The entire file structure is needed for the index.html to function properly and to maintain teh desired styling. 
-![image](https://user-images.githubusercontent.com/91850824/155857645-3fd8e103-cd59-4baf-a587-ff44ba29a9df.png)
+  To use this project locally, please clone the entire deposit or the html can be accessed in my github_pages (**https://copperminer02.github.io/UFOs/**).  The entire file structure is needed for the index.html to function properly and to maintain teh desired styling. 
 
   Once index.html is launched, the text and styling from the html are immdiately visible.  Also, the bottom of the page holds the table generated from **data.js** and **app.js**.  Along the left side the user can see the input boxes for the elements mentioned above (date, city, state, country, and shape) with default example values ('1/10/2010', 'roswell', 'nm', 'us', and 'triangle').
   
