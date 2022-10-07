@@ -2,7 +2,7 @@
 
 ## Overview
 
-  This project is a continuation of a previous html that displays a sotrable java array table of ufo sighting information  and allows users to sort table display by ufo sighting date.  To further advance the sorting options, the original javascript  that sorted the java array (**data.js**) was modified to allow users to sort the **data.js** and update the table based on a change to one or a combination of all of the defined search terms.  The search values included in the modification are:
+  This project is a continuation of a previous html that displays a sortableble java array table of ufo sighting information  and allows users to sort table display by ufo sighting date.  To further advance the sorting options, the original javascript  that sorted the java array (**data.js**) was modified to allow users to sort the **data.js** and update the table based on a change to one or a combination of all of the defined search terms.  The search values included in the modification are:
   
   *  **Date - UFO sighting event date**
   *  **City - City of sighting event**
